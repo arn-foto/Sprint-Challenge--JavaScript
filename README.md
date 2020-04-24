@@ -98,5 +98,5 @@ There are a few stretch problems found throughout the files, don't work on them 
 Follow these steps for completing your project:
 
 - [ ] Submit a Pull-Request to merge <firstName-lastName> Branch into master (student's  Repo).
-- [ ] Add your team lead as a Reviewer on the Pull-request
+- [ ] Add your team lead as a Reviewer on the Pull-request.
 - [ ] TL then will count the HW as done by  merging the branch back into master.
